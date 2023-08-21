@@ -11,4 +11,4 @@
 - Temos como ponto fundamental a autonomia do nosso cliente de escolhar qual vinho quer provar sem que tenha que comprar a garrafa inteira.
   
 ![image](https://github.com/melissasantos2/me/assets/141765150/5da1501e-7ba7-4421-8ab8-b6669212cf54)
-![image](https://github.com/melissasantos2/me/assets/141765150/50bb7fc0-4084-40e7-b076-03203d585b42)
+
